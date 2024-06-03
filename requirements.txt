@@ -1,5 +1,5 @@
 opencv-python-headless==4.5.3.56
 numpy==1.21.0
-tensorflow==2.6.0
+tensorflow
 streamlit==1.2.0
 keras==2.6.0
